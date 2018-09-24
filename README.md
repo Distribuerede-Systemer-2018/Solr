@@ -1,8 +1,8 @@
-#Solr
+# Solr
 
 I denne øvelsesgang skal i prøve at lege med et Apache Solr. Solr er en søge- og indekseringsplatform, som er meget populær og meget hurtig. Typisk vil man bruge denne til at indeksere en database, og så lave sine søgninger direkte i Solr, og efterfølgende trække dataen ud af databasen. 
 
-###Øvelse 1 - få Solr op at køre
+### Øvelse 1 - få Solr op at køre
 
 1. Følg denne guide ned til afsnittet omkring searching: http://lucene.apache.org/solr/guide/7_4/solr-tutorial.html
 2. Hvor mange entries er der i databasen? Og hvor mange af disse er bøger?
@@ -10,7 +10,7 @@ I denne øvelsesgang skal i prøve at lege med et Apache Solr. Solr er en søge-
 4. Hvilket grafikkort er billigst?
 5. (Optional) Hent programmet Postman og opgave 2-4 igen direkte derinde.
 
-###Øvelse 2
+### Øvelse 2
 
 1. Hent filen pokemon.json fra dette repository
 2. Opret din egen collection i Solr, og importer pokomon.json dokumentet.
