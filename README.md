@@ -8,7 +8,7 @@ I denne øvelsesgang skal i prøve at lege med et Apache Solr. Solr er en søge-
 2. Hvor mange entries er der i databasen? Og hvor mange af disse er bøger?
 3. Hvor mange Belkin produkter er der i databasen?
 4. Hvilket grafikkort er billigst?
-(optional) 5. Hent programmet Postman og opgave 2-4 igen direkte derinde.
+5. (Optional) Hent programmet Postman og opgave 2-4 igen direkte derinde.
 
 ###Øvelse 2
 
