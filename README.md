@@ -5,10 +5,11 @@ I denne øvelsesgang skal i prøve at lege med et Apache Solr. Solr er en søge-
 ### Øvelse 1 - få Solr op at køre
 
 1. Følg denne guide ned til afsnittet omkring searching: http://lucene.apache.org/solr/guide/7_4/solr-tutorial.html
-2. Hvor mange entries er der i databasen? Og hvor mange af disse er bøger?
-3. Hvor mange Belkin produkter er der i databasen?
-4. Hvilket grafikkort er billigst?
-5. (Optional) Hent programmet Postman og opgave 2-4 igen direkte derinde.
+2. Solr er blandt andet kendt for deres _fault tolerance_. I den forbindelse, hvad er en _shard_ og en _replika_ og hvordan bidrager disse til fault tolerance i Solr?
+3. Hvor mange entries er der i databasen? Og hvor mange af disse er bøger?
+4. Hvor mange Belkin produkter er der i databasen?
+5. Hvilket grafikkort er billigst?
+6. (Optional) Hent programmet Postman og lav opgave 2-4 igen direkte i Postman.
 
 ### Øvelse 2
 
